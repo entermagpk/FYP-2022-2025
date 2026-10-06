@@ -113,6 +113,7 @@ API:
 This starter does **not** include a real payment gateway, tax engine, email service, image upload service, or inventory reservation. Add Stripe/PayPal, server-side stock validation, rate limiting, CSRF strategy as appropriate, secure cookies, HTTPS, logging, and a managed database before production.
 
 ScreenShot For Visualization:
+Index.HTML
 01.
 <img width="1892" height="842" alt="image" src="https://github.com/user-attachments/assets/f19541be-ddba-4307-89c7-aaf806480427" />
 02.
@@ -127,6 +128,43 @@ ScreenShot For Visualization:
 <img width="1917" height="863" alt="image" src="https://github.com/user-attachments/assets/dea60eb5-c9c0-4d03-b017-1cd595c3b054" />
 07.
 <img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/fcc83ebf-bce6-434c-befd-bcbabcc52f00" />
+
+Account.HTML
+01.
+<img width="1917" height="863" alt="image" src="https://github.com/user-attachments/assets/de4a1a39-33ed-46cd-a883-fdbe01951b73" />
+
+Admin.HTML
+01.
+<img width="1645" height="870" alt="image" src="https://github.com/user-attachments/assets/89fe21e4-606a-4da7-818e-34eb539a6e89" />
+
+Cart.HTML
+01.
+<img width="1187" height="671" alt="image" src="https://github.com/user-attachments/assets/80a0637b-7a83-4f45-b865-45df135d1ed7" />
+
+CheckOut.HTML
+01.
+<img width="1281" height="865" alt="image" src="https://github.com/user-attachments/assets/918704ea-1273-4836-8d13-6a4f3f46854c" />
+
+Login.HTML
+01.
+<img width="1672" height="861" alt="image" src="https://github.com/user-attachments/assets/88510c51-845c-4199-873b-a81e8ca03d0d" />
+
+Product.HTML
+01.
+<img width="1397" height="866" alt="image" src="https://github.com/user-attachments/assets/3966505a-217e-487b-8d8a-3c565f842280" />
+
+Products.HTML
+01.
+<img width="1406" height="843" alt="image" src="https://github.com/user-attachments/assets/c4ed15e3-4e2c-431e-bc41-916502647809" />
+
+Register.HTML
+01.
+<img width="1418" height="855" alt="image" src="https://github.com/user-attachments/assets/eb01f0bb-6a52-4f2e-a1a2-4782c09943c8" />
+
+
+
+
+
 
 
 
