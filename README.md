@@ -111,3 +111,25 @@ API:
 ## Production notes
 
 This starter does **not** include a real payment gateway, tax engine, email service, image upload service, or inventory reservation. Add Stripe/PayPal, server-side stock validation, rate limiting, CSRF strategy as appropriate, secure cookies, HTTPS, logging, and a managed database before production.
+
+ScreenShot For Visualization:
+01.
+<img width="1892" height="842" alt="image" src="https://github.com/user-attachments/assets/f19541be-ddba-4307-89c7-aaf806480427" />
+02.
+<img width="1897" height="826" alt="image" src="https://github.com/user-attachments/assets/be23897f-fc55-4eb2-ac5b-c76686fd719e" />
+03.
+<img width="1896" height="543" alt="image" src="https://github.com/user-attachments/assets/0321f008-530f-4d36-9ace-db670718adfe" />
+04.
+<img width="1912" height="865" alt="image" src="https://github.com/user-attachments/assets/534f5cda-1417-4b9a-bd9d-5865a2e49766" />
+05.
+<img width="1916" height="860" alt="image" src="https://github.com/user-attachments/assets/b60e7c60-af3d-4ea1-9295-7bff9181c755" />
+06.
+<img width="1917" height="863" alt="image" src="https://github.com/user-attachments/assets/dea60eb5-c9c0-4d03-b017-1cd595c3b054" />
+07.
+<img width="1917" height="867" alt="image" src="https://github.com/user-attachments/assets/fcc83ebf-bce6-434c-befd-bcbabcc52f00" />
+
+
+
+
+
+
